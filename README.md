@@ -7,3 +7,8 @@ Exercícios com o objetivo de por em prática codificação e/ou análise de gra
 Disciplina: Teoria dos Grafos  
 Universidade Federal de Campina Grande  
 Período: 2018.2
+
+## Ferramentas Utilizadas
+* jGraphT - Biblioteca Java
+* yED - Graph Editor
+* Neo4J e Cypher
