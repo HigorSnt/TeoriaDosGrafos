@@ -1,7 +1,0 @@
-Alunos:
-GABRIEL CARVALHO DE LIMA
-HIGOR SANTOS DE BRITO DANTAS
-MATHEUS HENRIQUE FERNANDES JUSTINO
-
-A visualização escolhida foi no formato circular, pois tornou a visualização mais simples das relações entre cada usuário e dos envios de e-mails. Os demais layouts deixavam o grafo praticamente ilegível devido ao grande número de ligações existentes entre eles. 
-Portanto, o layout circular tornou mais fácil verificar para quais usuários um determinado usuário enviou email.

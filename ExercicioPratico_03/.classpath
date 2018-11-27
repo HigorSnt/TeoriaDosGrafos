@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Questao02/TG_EP03/src"/>
+	<classpathentry kind="src" path="questao02"/>
+	<classpathentry kind="lib" path="lib/jgrapht-bundle-1.3.0.jar"/>
+	<classpathentry kind="output" path="Questao02/TG_EP03/bin"/>
+</classpath>

@@ -1,0 +1,22 @@
+Vértices da União dos grafos: [a, b, c, d, e, f, g, i]
+Arestas da União dos grafos: [(d : e), (e : c), (c : i), (i : f), (f : d), (d : a), (a : g), (g : b), (b : d)]
+
+Vértices da Intersecção dos grafos: [d]
+Arestas da Intersecção dos grafos: []
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@author Gabriel Carvalho de Lima
+@author Higor Santos de Brito Dantas
+@author Matheus Henrique Fernandes Justino

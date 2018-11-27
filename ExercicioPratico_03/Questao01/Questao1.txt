@@ -1,0 +1,7 @@
+a visualização escolhida para a melhor visualização dos grupos nesse grafo em particular foi a visualização circular, pois podemos ver claramente os vertices que se separam do grupo principal do grafo (história principal e personagens coadjuvantes) e podemos indentifica-los facilmete.
+
+O principal grupo de vertices fora do grupo principal é o que tem Myrel como vértice central, que é um personagem secundário que tem um arco próprio na história e só interage com valjea
+
+tambem existe o grupo das crianças 1 e 2, que interagem apenas entre si e com Gavroche
+
+alem de outros personagens isolados que tem apenas uma interação com um personagem do arco principal

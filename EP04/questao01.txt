@@ -1,7 +1,0 @@
-load csv with headers from "file:///pessoas.csv" as csvLine Create(p:PESSOA{name:csvLine.Nome, genero:csvLine.Genero, idade:toInteger(csvLine.Idade)})
-
-load csv with headers from "file:///compras.csv" as csvLine match(c:PESSOA{name:csvLine.Comprador}) match(v:PESSOA{name:csvLine.Vendedor}) create (c)-[:COMPROU_DE{modelo:csvLine.Modelo, cor:csvLine.Cor, pais_compra:csvLine.Pais, ano_compra:toInteger(csvLine.Ano) }]->(v) return *
-
-passo 2
-
-match (p) return *

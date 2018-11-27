@@ -1,9 +1,0 @@
-match(p) where(()-[:COMPROU_DE]->(p)) return p.name,p.idade,p.genero order by upper(p.name)
-
-match(p) where((p)-[:COMPROU_DE]->() and ()-[:COMPROU_DE]->(p)) return p.name,p.idade,p.genero order by upper(p.name)
-
-match ((p)-[c:COMPROU_DE]->()) where c.modelo="LX" return p.name,p.genero order by (p.name)
-
-match (()-[c:COMPROU_DE]->(v)) where c.pais_compra="Russia" return avg(v.idade)
-
-match ((comprador)-[c:COMPROU_DE]->()) where c.cor="Yellow" and comprador.idade>40 return c.modelo order by (c.modelo)
