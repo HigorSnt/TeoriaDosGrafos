@@ -1,4 +1,7 @@
-# Exercício Prático 1
+# Exercício Prático 2
+
+UNIVERSIDADE FEDERAL DE CAMPINA GRANDE - PB.  
+2º Exercício Prático da disciplina Teoria dos Grafos.
 
 ## Questão 01
 Dado uma planilha, que representa uma versão simplificada de dados de envio de e-mail entre usuários de uma instituição europeia, deve-se fazer:
@@ -15,9 +18,13 @@ bairro, quais deslocamentos não são possíveis, se existirem? (Por exemplo, da
 cada 2 cruzamentos? O tamanho do percurso é determinado pela quantidade de trechos de vias que
 devem ser trafegadas no percurso.
 
+_Mais informações sobre as questões [veja aqui](instrucoes/Exercício Prático 02.pdf)_
+
 # Ferramenta Utilizada
 yEd
 jGraphT - Bibilioteca Java
+
+
 
 <p align="center">
   <img src="http://alumni.computacao.ufcg.edu.br/static/logica/images/logo.png"/></p>

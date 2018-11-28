@@ -3,5 +3,5 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="src" path="questao02"/>
 	<classpathentry kind="lib" path="lib/jgrapht-bundle-1.3.0.jar"/>
-	<classpathentry kind="output" path="Questão 02/EP02/bin"/>
+	<classpathentry kind="output" path="questao02"/>
 </classpath>
