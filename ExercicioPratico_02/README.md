@@ -18,7 +18,7 @@ bairro, quais deslocamentos não são possíveis, se existirem? (Por exemplo, da
 cada 2 cruzamentos? O tamanho do percurso é determinado pela quantidade de trechos de vias que
 devem ser trafegadas no percurso.
 
-_Mais informações sobre as questões [veja aqui](instrucoes/Exercício Prático 02.pdf)_
+_Mais informações sobre as questões [veja aqui](instrucoes/)_
 
 # Ferramenta Utilizada
 yEd

@@ -4,7 +4,7 @@ UNIVERSIDADE FEDERAL DE CAMPINA GRANDE - PB.
 4º Exercício Prático da disciplina Teoria dos Grafos.
 
 ## OBJETIVO
-_Mais informações sobre as questões [veja aqui](instrucoes/Exercício Prático 04.pdf)_
+_Mais informações sobre as questões [veja aqui](instrucoes/)_
 
 Criar um grafo por meio de um arquivo csv, onde liga pessoas que compraram carro a outra pessoa. Em seguida fazer alguns tratamento sobre os dados utilizando Cypher.
 

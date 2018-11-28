@@ -4,7 +4,7 @@ UNIVERSIDADE FEDERAL DE CAMPINA GRANDE - PB.
 3º Exercício Prático da disciplina Teoria dos Grafos.
 
 ## OBJETIVO
-_Mais informações sobre as questões [veja aqui](instrucoes/Exercício Prático 03.pdf)_
+_Mais informações sobre as questões [veja aqui](instrucoes/)_
 
 Ao receber um grafo não-direcionado no formato .gml como entrada, esse programa gera as seguintes métricas:
 
