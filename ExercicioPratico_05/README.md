@@ -1,4 +1,4 @@
-# Exercício Prático 4
+# Exercício Prático 5
 
 UNIVERSIDADE FEDERAL DE CAMPINA GRANDE - PB.  
 5º Exercício Prático da disciplina Teoria dos Grafos.
