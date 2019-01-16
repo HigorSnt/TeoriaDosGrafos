@@ -4,9 +4,10 @@ UNIVERSIDADE FEDERAL DE CAMPINA GRANDE - PB.
 5º Exercício Prático da disciplina Teoria dos Grafos.
 
 ## OBJETIVO
-_Mais informações sobre as questões [veja aqui](Instrução/)_
 
-Análise de algoritmos e construção de CFGs (Control Flow Graph).
+Análise de algoritmos e construção de CFG (Control Flow Graph).
+
+_Mais informações sobre as questões [aqui](Instrução/Exercício%20Prático%2005.pdf "Exercício Prático 5")._
 
 # Ferramenta Utilizada
 yED - Graph Editor

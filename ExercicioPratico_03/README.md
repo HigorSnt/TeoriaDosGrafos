@@ -3,8 +3,7 @@
 UNIVERSIDADE FEDERAL DE CAMPINA GRANDE - PB.  
 3º Exercício Prático da disciplina Teoria dos Grafos.
 
-## OBJETIVO
-_Mais informações sobre as questões [veja aqui](instrucoes/)_
+## Conceitos necessários pra a atividade
 
 Ao receber um grafo não-direcionado no formato .gml como entrada, esse programa gera as seguintes métricas:
 
@@ -21,6 +20,10 @@ Ao receber um grafo não-direcionado no formato .gml como entrada, esse programa
 * Distância (Distância média entre todos os pares de vértices do grafo.)  
 
 * Cliques Maximais
+
+## Informações
+
+_Mais informações sobre as questões [aqui](instrucoes/Exercício%20Prático%2003.pdf "Exercício Prático 3")._
 
 # Ferramenta Utilizada
 yEd

@@ -9,7 +9,7 @@ Dado um vértice v de um grafo G simples direcionado, encontrar todos os vizinho
 ## Questão 02
 Dado dois grafos simples, determinar o grafo resultante da união e o grafo resultante da interseção entre eles.
 
-_Mais informações sobre as questões [veja aqui](instrucoes/)_
+_Mais informações sobre as questões [aqui](instrucoes/Exercício%20Prático%2001.pdf "Exercício Prático 1")._
 
 # Ferramenta Utilizada
 jGraphT - Bibilioteca Java
@@ -17,4 +17,5 @@ jGraphT - Bibilioteca Java
 
 
 <p align="center">
-  <img src="http://alumni.computacao.ufcg.edu.br/static/logica/images/logo.png"/></p>
+  <img src="http://alumni.computacao.ufcg.edu.br/static/logica/images/logo.png"/>
+</p>
